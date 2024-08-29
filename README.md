@@ -1,6 +1,7 @@
 # Basic ToDo App
+
 <p align="center">
-    <img src="img/app.png" alt="ToDo app" width="350" height="200">
+    <img src="img/pixel-todo.jpg" alt="ToDo app" width="350" height="200">
 </p>
 
 This Basic ToDo App allows users to manage their daily tasks effectively. It features the ability to add, edit, and delete tasks, as well as filter them based on their status (All, Pending, Completed). For now, only utilize local storage to save tasks, ensuring that the user's data persists between sessions.
@@ -8,6 +9,7 @@ This Basic ToDo App allows users to manage their daily tasks effectively. It fea
 And it's responsive!!
 
 ## Features
+
 - **Add Tasks:** Add a task in the input field and press Enter to add it to the list.
 - **Edit Tasks:** Click on the edit option in the task's menu to modify an existing task.
 - **Delete Tasks:** Remove a task by clicking on the trash icon in the task's menu.
